@@ -1,1 +1,1 @@
-Hello world of Git
+Hello world of Git Course
